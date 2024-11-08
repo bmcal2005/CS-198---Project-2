@@ -6,8 +6,8 @@
     box-sizing: border-box;
 }
 :root{
-    --tenne-tawny: #d65108;
-    --tenne-tawny-dark: #b54507;
+    --tenne-tawny: #6b4d3f;
+    --tenne-tawny-dark: #674e42;
 }
 body{
     font-weight: 300;
@@ -39,7 +39,7 @@ body{
     max-width: 1280px;
     margin: 0 auto;
     padding: 2rem;
-    background: #fff;
+    background: #f0f2ed;
     text-align: center;
 }
 .meal-search{
